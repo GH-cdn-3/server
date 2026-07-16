@@ -1,0 +1,49 @@
+{
+  "updated_at": "2026-07-16T08:13:53.132Z",
+  "guides": {
+    "16-07-2026": {
+      "date": "16-07-2026",
+      "iso_date": "2026-07-16",
+      "file": "16-07-2026.bin",
+      "github_path": "bins/16-07-2026.bin",
+      "commit": "5f838fe0b1fde5b6af3cf0e240f8d3b6c8afd376",
+      "branch": "main",
+      "url": "https://raw.githubusercontent.com/GH-cdn-3/server/5f838fe0b1fde5b6af3cf0e240f8d3b6c8afd376/bins/16-07-2026.bin",
+      "html_url": "https://github.com/GH-cdn-3/server/blob/main/bins/16-07-2026.bin",
+      "uploaded_at": "2026-07-16T08:07:56.277Z"
+    },
+    "15-07-2026": {
+      "date": "15-07-2026",
+      "iso_date": "2026-07-15",
+      "file": "15-07-2026.bin",
+      "github_path": "bins/15-07-2026.bin",
+      "commit": "f060ca41a6abbcc99909ccc170be9d39080d0036",
+      "branch": "main",
+      "url": "https://raw.githubusercontent.com/GH-cdn-3/server/f060ca41a6abbcc99909ccc170be9d39080d0036/bins/15-07-2026.bin",
+      "html_url": "https://github.com/GH-cdn-3/server/blob/main/bins/15-07-2026.bin",
+      "uploaded_at": "2026-07-16T08:13:11.482Z"
+    },
+    "17-07-2026": {
+      "date": "17-07-2026",
+      "iso_date": "2026-07-17",
+      "file": "17-07-2026.bin",
+      "github_path": "bins/17-07-2026.bin",
+      "commit": "c6cf493c8b3ffa0660ac22e8de4d0f399ee82137",
+      "branch": "main",
+      "url": "https://raw.githubusercontent.com/GH-cdn-3/server/c6cf493c8b3ffa0660ac22e8de4d0f399ee82137/bins/17-07-2026.bin",
+      "html_url": "https://github.com/GH-cdn-3/server/blob/main/bins/17-07-2026.bin",
+      "uploaded_at": "2026-07-16T08:13:32.384Z"
+    },
+    "18-07-2026": {
+      "date": "18-07-2026",
+      "iso_date": "2026-07-18",
+      "file": "18-07-2026.bin",
+      "github_path": "bins/18-07-2026.bin",
+      "commit": "f171d442c6af896553c11facbf517b83bf032ae7",
+      "branch": "main",
+      "url": "https://raw.githubusercontent.com/GH-cdn-3/server/f171d442c6af896553c11facbf517b83bf032ae7/bins/18-07-2026.bin",
+      "html_url": "https://github.com/GH-cdn-3/server/blob/main/bins/18-07-2026.bin",
+      "uploaded_at": "2026-07-16T08:13:53.131Z"
+    }
+  }
+}
